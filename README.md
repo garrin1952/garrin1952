@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Julia
 - 👀 I’m interested in expanding my professional horizons by acquiring new skills and engaging with new communities
-- 🌱 I’m currently looking for a job in data analytics
 - 📫 Connect with me t.me/antoodv_tg
 
 <!---
