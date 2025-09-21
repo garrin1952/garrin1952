@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Julia
+- 👋 Hi!
 - 👀 I’m interested in expanding my professional horizons by acquiring new skills and engaging with new communities
 - 📫 Do say hello!
 <!---
